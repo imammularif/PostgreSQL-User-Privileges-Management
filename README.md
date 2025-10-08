@@ -1,18 +1,6 @@
 # PostgreSQL-User-Privileges-Management
 
-Deskripsi Project
-
-Project ini mendokumentasikan proses membuat user PostgreSQL dengan hak akses spesifik, memberikan hak CRUD ke tabel lama dan default privileges untuk tabel baru. Juga membandingkan user CRUD vs superuser.
-
-Tujuan:
-- Memahami manajemen user dan role di PostgreSQL
-- Praktik GRANT CRUD, ALTER DEFAULT PRIVILEGES
-- Portfolio skill PostgreSQL
-
-Tools
-- PostgreSQL
-- DBeaver atau psql CLI
-- Ubuntu / Windows / macOS
+Di pekerjaan sebelumnya, saya mempelajari pentingnya pengaturan hak akses user di database. Dari situ saya mulai & berinisiatif mendalami bagaimana cara membuat, mengatur, dan memberikan hak akses CRUD di PostgreSQL secara aman dan efisien.
 
 ### 1. Membuat User baru
 

@@ -16,6 +16,15 @@ Tools
 
 ### 1. Membuat User baru
 
+--masuk ke administrator postgresql-nya
+```bash 
+sudo -i -u postgres
+```
+
+```bash 
+psql
+```
+
 -- User CRUD
 
 ```bash 

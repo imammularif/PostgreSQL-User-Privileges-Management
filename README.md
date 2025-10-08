@@ -1,6 +1,6 @@
 # PostgreSQL-User-Privileges-Management
 
-Di pekerjaan sebelumnya, saya mempelajari pentingnya pengaturan hak akses user di database. Dari situ saya mulai & berinisiatif mendalami bagaimana cara membuat, mengatur, dan memberikan hak akses CRUD di PostgreSQL secara aman dan efisien.
+Di pekerjaan sebelumnya, saya mempelajari pentingnya pengaturan hak akses user di database. Dari situ saya mulai & berinisiatif mendalami bagaimana cara membuat, mengatur, dan memberikan hak akses CRUD di PostgreSQL secara aman dan efisien. Mini-Project ini menjadi bagian dari proses saya memahami manajemen keamanan data serta memperkuat dasar pengetahuan saya di bidang database administration dan data governance.
 
 ### 1. Membuat User baru
 

@@ -2,6 +2,12 @@
 
 Di pekerjaan sebelumnya, saya mempelajari pentingnya pengaturan hak akses user di database. Dari situ saya mulai & berinisiatif mendalami bagaimana cara membuat, mengatur, dan memberikan hak akses CRUD di PostgreSQL secara aman dan efisien. Mini-Project ini menjadi bagian dari proses saya memahami manajemen keamanan data serta memperkuat dasar pengetahuan saya di bidang database administration dan data governance.
 
+## What This Project Does
+- Membuat user baru dengan hak CRUD di database / tabel publik  
+- Mengatur default privileges agar setiap tabel baru otomatis memberi hak CRUD ke user  
+- Memberi hak akses `CREATE` agar user bisa membuat tabel sendiri  
+- Mengecek dan menampilkan hak akses tiap user lewat query di `information_schema`
+
 ### 1. Membuat User baru
 
 --masuk ke administrator postgresql-nya

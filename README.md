@@ -94,6 +94,8 @@ GROUP BY grantee, table_schema, table_name
 ORDER BY grantee, table_schema, table_name;
 ```
 
+NOTE : Project ini saya buat sebagai latihan dan dokumentasi pribadi untuk memperdalam pemahaman tentang pengelolaan hak akses user di PostgreSQL secara praktis.
+
 
 
 

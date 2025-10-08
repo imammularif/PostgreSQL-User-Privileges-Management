@@ -64,6 +64,9 @@ GRANT CONNECT ON DATABASE db_test TO imul_crud;
 ```bash 
 GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA public TO imul_crud;
 ```
+```bash 
+GRANT CREATE ON SCHEMA public TO imul_crud;
+```
 
 -- Hak CRUD untuk tabel baru (default privileges)
 

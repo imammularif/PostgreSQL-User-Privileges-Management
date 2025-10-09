@@ -88,6 +88,8 @@ GROUP BY grantee, table_schema, table_name
 ORDER BY grantee, table_schema, table_name;
 ```
 
+![cek hak akses users](https://github.com/imammularif/PostgreSQL-User-Privileges-Management/blob/main/Chapture/Screenshot%202025-10-09%20204010.png)
+
 NOTE : Project ini saya buat sebagai latihan dan dokumentasi pribadi untuk memperdalam pemahaman tentang pengelolaan hak akses user di PostgreSQL secara praktis.
 
 

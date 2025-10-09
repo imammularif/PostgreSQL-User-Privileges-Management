@@ -45,7 +45,7 @@ atau jika databasenya sudah ada, beri hak akses konek ke database-nya
 GRANT CONNECT ON DATABASE db_test TO imul_crud;
 ```
 
-### 3. Mmberikan Hak Akses
+### 3. Memberikan Hak Akses
 
 -- Koneksi ke database
 
